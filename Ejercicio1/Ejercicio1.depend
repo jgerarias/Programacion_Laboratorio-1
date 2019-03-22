@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553210727 source:d:\ejercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553208419 source:d:\ejercicio1\src\ejercicio 2.cpp
+	<stdio.h>
+	<stdlib.h>
+
