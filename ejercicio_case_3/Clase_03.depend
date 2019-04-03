@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1451402363 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_02/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554250033 source:d:\ger\utn\programacion y lavoratorio 1\programacion_1_laboratorio_1-master\clase_03\ejercicio_case_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
