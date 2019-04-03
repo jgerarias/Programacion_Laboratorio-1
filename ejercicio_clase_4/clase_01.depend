@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1553130547 source:d:\clase_01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553819836 source:/home/alumno/Descargas/Programacion_Laboratorio-1-master (1)/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1553819761 /home/alumno/Descargas/Programacion_Laboratorio-1-master (1)/utn.h
+
+1553822175 source:/home/alumno/Descargas/Programacion_Laboratorio-1-master (1)/utn.c
+	<stdio.h>
+
+1553807880 source:d:\ger\utn\programacion y lavoratorio 1\ejercicios\ejercicio_clase_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1553807880 d:\ger\utn\programacion y lavoratorio 1\ejercicios\ejercicio_clase_4\utn.h
+
+1553807880 source:d:\ger\utn\programacion y lavoratorio 1\ejercicios\ejercicio_clase_4\utn.c
+	<stdio.h>
+
