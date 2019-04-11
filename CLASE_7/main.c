@@ -52,8 +52,23 @@ int getString(  char *pResultado,
 
 int isValidIntNumber (char* cadena)
 {
-    return 1;
+    int retorno = 1;
+    int i=0;
+    if (cadena[i]== '-')
+    {
+        i++;
+    }
+    for (; cadena[i]!='\0';i++)//para recorrer cualquier string
+    {
+        if (cadena[i]<'0'|| cadena[i] > '9')
+        {
+            retorno=0;
+            break;
+        }
+    }
 
+
+    return retorno;
 }
 
 int getNumber(  int *resultado,
