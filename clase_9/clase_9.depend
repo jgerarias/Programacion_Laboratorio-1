@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1556146623 source:/home/alumno/Documentos/revainera/clase_9/main.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	<string.h>
+	<ctype.h>
+
+1556146664 /home/alumno/Documentos/revainera/clase_9/publicidad.h
+
+1556145864 /home/alumno/Documentos/revainera/clase_9/pantalla.h
+
+1556146023 source:/home/alumno/Documentos/revainera/clase_9/pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	<string.h>
+	<ctype.h>
+
+1556146025 source:/home/alumno/Documentos/revainera/clase_9/publicidad.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	<string.h>
+	<ctype.h>
+
