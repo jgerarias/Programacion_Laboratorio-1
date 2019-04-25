@@ -14,5 +14,9 @@ int tipo;
 
 int pantalla_Inicializar(Pantalla* pantalla, int cantidad);
 int pantalla_buscarLibre(Pantalla* pantalla, int cantidad, int* devuelve);
+void pantalla_generadorId(Pantalla* pantalla,int pos, int* id);
+int pantalla_Alta(Pantalla* pantalla,int cantidad,int devuelve);
+int pantalla_asignarPantalla(Pantalla* pantalla,int posLibre);
+
 
 #endif // PANTALLA_H_INCLUDED

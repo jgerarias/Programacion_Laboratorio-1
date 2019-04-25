@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdio_ext.h>
 #include "publicidad.h"
 #include "pantalla.h"
 #include "empleado.h"
@@ -102,7 +103,7 @@ int getStringConNum(char *pResult, char *pMsg, char *pMsgError, int min, int max
     return ret;
 }
 
-int utn_getFloat(float *pResultado,const char *mensaje,const char *mensajeError,int minimo,int maximo,int reintentos)
+int utn_getFloat(float *pResultado,char *mensaje,char *mensajeError,int minimo,int maximo,int reintentos)
 {
     int ret;
     float num;

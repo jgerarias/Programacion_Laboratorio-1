@@ -27,3 +27,63 @@
 	<string.h>
 	<ctype.h>
 
+1556154846 source:/home/alumno/Documentos/clase_9/main.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	"empleado.h"
+	"funciones_string.h"
+	<string.h>
+	<ctype.h>
+
+1556154846 /home/alumno/Documentos/clase_9/publicidad.h
+
+1556234761 /home/alumno/Documentos/clase_9/pantalla.h
+
+1556154846 /home/alumno/Documentos/clase_9/empleado.h
+
+1556234426 /home/alumno/Documentos/clase_9/funciones_string.h
+	"empleado.h"
+
+1556154846 source:/home/alumno/Documentos/clase_9/publicidad.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	"empleado.h"
+	"funciones_string.h"
+	<string.h>
+	<ctype.h>
+
+1556154846 source:/home/alumno/Documentos/clase_9/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	"empleado.h"
+	"funciones_string.h"
+	<string.h>
+	<ctype.h>
+
+1556234361 source:/home/alumno/Documentos/clase_9/funciones_string.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"publicidad.h"
+	"pantalla.h"
+	"empleado.h"
+	"funciones_string.h"
+	<string.h>
+	<ctype.h>
+
+1556234526 source:/home/alumno/Documentos/clase_9/pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	"publicidad.h"
+	"pantalla.h"
+	"empleado.h"
+	"funciones_string.h"
+	<string.h>
+	<ctype.h>
+
